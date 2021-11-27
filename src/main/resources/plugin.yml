@@ -1,0 +1,6 @@
+name: ExtraSpells
+version: ${project.version}
+main: com.axowattle.extraspells.ExtraSpells
+api-version: 1.17
+commands:
+  spell:
